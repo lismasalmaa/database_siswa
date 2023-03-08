@@ -1,0 +1,14 @@
+body{
+    background-color: #EEEEEE;
+ }
+ 
+ .input{
+     width: 15%;
+     height: 15%;
+     padding-top: 10px;
+     padding-bottom: 30px;
+     background-color: #3A98B9;
+     margin-left: 15px;
+     margin-top: 105px;
+     border-radius: 40px;
+ }
